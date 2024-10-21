@@ -20,3 +20,6 @@ div {
 
 /*    Class selectors    */
 /* Class selectors will select all elements with the given class, which is just an attribute you place on an HTML element. */
+.alert-text {
+    color: red;
+}
