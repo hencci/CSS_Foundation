@@ -29,3 +29,11 @@ div {
 #title {
     background-color: black;
 }
+
+
+/*      Image height and width      */
+/* If you wanted to adjust the size of the image without causing it to lose its proportions, you would use a value of “auto” for the height property and adjust the width value: */
+img {
+    height: auto;
+    width: 500px;
+}  
