@@ -23,3 +23,9 @@ div {
 .alert-text {
     color: red;
 }
+
+/*      ID selectors      */
+/* ID selectors are similar to class selectors. They select an element with the given ID, which is another attribute you place on an HTML element */
+#title {
+    background-color: black;
+}
