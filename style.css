@@ -1,0 +1,22 @@
+
+/*     SELECTORS      */
+
+/* Selectors refer to the HTML elements to which CSS rules apply. They are what is actually being “selected” for each rule. */
+
+
+/*    Universal selector     */
+/* The universal selector will select elements of any type, hence the name “universal”, and the syntax for it is a simple asterisk. */
+* {
+    color: purple;
+}
+/* In the example above, every element would have the color: purple; */
+
+/*    Type selectors    */
+/* A type selector (or element selector) will select all elements of the given element type, and the syntax is just the name of the element */
+div {
+    color: white;
+}
+/* In the example above, the <div> element would be selected */
+
+/*    Class selectors    */
+/* Class selectors will select all elements with the given class, which is just an attribute you place on an HTML element. */
