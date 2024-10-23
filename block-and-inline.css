@@ -1,0 +1,9 @@
+
+/*          Block vs Inline          */
+/* Most of the elements that you have learned about so far are block elements. In other words, their default style is display: block. By default, block elements will appear on the page stacked atop each other, each new element starting on a new line.
+
+Inline elements, however, do not start on a new line. They appear in line with whatever elements they are placed beside. A clear example of an inline element is a link, or <a> tag. */
+
+
+/*          Inline-block          */
+/* Inline-block elements behave like inline elements, but with block-style padding and margin. */
