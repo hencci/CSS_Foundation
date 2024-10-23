@@ -7,3 +7,31 @@ Inline elements, however, do not start on a new line. They appear in line with w
 
 /*          Inline-block          */
 /* Inline-block elements behave like inline elements, but with block-style padding and margin. */
+
+/*            Div          */
+/* Div is a block-level element by default. It is commonly used as a container element to group other elements. */
+div {
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 5px;
+    color: #EEEEEE;
+}
+  
+.introduction {
+    background-color: #548CA8;
+}
+  
+.main-content {
+    background-color: #476072;
+}
+  
+.contact-us {
+    background-color: #334257;
+}
+
+
+/*         span         */
+/* Span is an inline-level element by default. It can be used to group text content and inline HTML elements for styling and should only be used when no other semantic HTML element is appropriate. */
+.highlight {
+    background-color: gray;
+}
